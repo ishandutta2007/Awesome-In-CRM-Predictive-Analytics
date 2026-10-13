@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-In-CRM-Predictive-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-In-CRM-Predictive-Analytics?style=flat-square&logo=github" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-In-CRM-Predictive-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-In-CRM-Predictive-Analytics?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-In-CRM-Predictive-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-In-CRM-Predictive-Analytics?style=flat-square&logo=github" alt="GitHub forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-In-CRM-Predictive-Analytics/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -76,79 +76,79 @@ Open-source and self-hosted tools provide data sovereignty, zero per-seat licens
 
 ### Open-Source Solutions Ranked by Stars
 
-*Sorted descending by GitHub star count:*
+*Sorted descending by GitHub Stars_Count:*
 
-1. ### 🌟 [Twenty CRM](https://github.com/twentyhq/twenty) [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+1. ### 🌟 [Twenty CRM](https://github.com/twentyhq/twenty) [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
    - **Focus:** Modern Open-Source CRM & Extensible Data Architecture
    - **Tech Stack:** TypeScript, NestJS, React, PostgreSQL
    - **Highlights:** A modern open-source alternative to Salesforce. Built on a modular schema enabling developers to hook custom predictive ML scoring models, trigger retention workflows, and calculate pipeline conversion velocity directly over relational PostgreSQL data.
 
-2. ### 🌟 [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)
+2. ### 🌟 [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) [![GitHub_Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)
    - **Focus:** Enterprise Open-Source CRM Suite
    - **Tech Stack:** PHP, Symfony, MariaDB/MySQL
    - **Highlights:** Globally recognized enterprise open-source CRM featuring rich pipeline tracking, automated workflow triggers, historical sales reports, and modular integration capabilities for custom lead scoring models and quota forecasting.
 
-3. ### 🌟 [Frappe CRM](https://github.com/frappe/crm) [![GitHub stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers)
+3. ### 🌟 [Frappe CRM](https://github.com/frappe/crm) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers)
    - **Focus:** Modern Lead & Deal Management Platform
    - **Tech Stack:** Python, Frappe Framework, Vue.js
    - **Highlights:** Open-source CRM engineered for modern sales organizations. Includes lead qualification pipelines, deal stages, communication tracking, and native scriptability for running scikit-learn/PyTorch predictive models on customer interactions.
 
-4. ### 🌟 [EspoCRM](https://github.com/espocrm/espocrm) [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
+4. ### 🌟 [EspoCRM](https://github.com/espocrm/espocrm) [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
    - **Focus:** Fast, Single-Page Application CRM & Analytics
    - **Tech Stack:** PHP, Backbone.js, MySQL
    - **Highlights:** Highly responsive CRM application with comprehensive sales pipeline forecasting dashboards, conversion funnel analytics, lead scoring rules, and REST API endpoints for external machine learning scoring services.
 
-5. ### 🌟 [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) [![GitHub stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifetimes?style=social&color=white)](https://github.com/CamDavidsonPilon/lifetimes/stargazers)
+5. ### 🌟 [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) [![GitHub_Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifetimes?style=social&color=white)](https://github.com/CamDavidsonPilon/lifetimes/stargazers)
    - **Focus:** Customer Lifetime Value (CLV) & Churn Prediction
    - **Tech Stack:** Python, NumPy, SciPy, Pandas
    - **Highlights:** The gold-standard library for measuring customer lifetime value and churn probability using statistical models (BG/NBD, Pareto/NBD, Gamma-Gamma). Easily ingested into CRM database pipelines to score customer churn likelihood.
 
-6. ### 🌟 [Customer Survival Analysis & Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) [![GitHub stars](https://img.shields.io/github/stars/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction?style=social&color=white)](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/stargazers)
+6. ### 🌟 [Customer Survival Analysis & Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) [![GitHub_Stars](https://img.shields.io/github/stars/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction?style=social&color=white)](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/stargazers)
    - **Focus:** Survival Analysis & Customer LTV / Churn Forecasting
    - **Tech Stack:** Python, Flask, Scikit-learn, Lifelines
    - **Highlights:** Employs Kaplan-Meier and Cox Proportional Hazards survival analysis models alongside Random Forest classifiers to predict churn timelines and residual customer lifetime value. Includes a deployable Flask API.
 
-7. ### 🌟 [Sales Forecasting ML Toolkit](https://github.com/mollyryanruby/sales_forecasting) [![GitHub stars](https://img.shields.io/github/stars/mollyryanruby/sales_forecasting?style=social&color=white)](https://github.com/mollyryanruby/sales_forecasting/stargazers)
+7. ### 🌟 [Sales Forecasting ML Toolkit](https://github.com/mollyryanruby/sales_forecasting) [![GitHub_Stars](https://img.shields.io/github/stars/mollyryanruby/sales_forecasting?style=social&color=white)](https://github.com/mollyryanruby/sales_forecasting/stargazers)
    - **Focus:** Multi-Model Revenue & Demand Forecasting
    - **Tech Stack:** Python, ARIMA, XGBoost, LightGBM, Scikit-learn
    - **Highlights:** Comprehensive implementation comparing five machine learning techniques (ARIMA, Linear Regression, Random Forest, XGBoost, and LightGBM) for predicting sales numbers based on historical trend seasonality and sales cycles.
 
-8. ### 🌟 [Machine Learning For Predictive Lead Scoring](https://github.com/daddydrac/Machine-Learning-For-Predictive-Lead-Scoring) [![GitHub stars](https://img.shields.io/github/stars/daddydrac/Machine-Learning-For-Predictive-Lead-Scoring?style=social&color=white)](https://github.com/daddydrac/Machine-Learning-For-Predictive-Lead-Scoring/stargazers)
+8. ### 🌟 [Machine Learning For Predictive Lead Scoring](https://github.com/daddydrac/Machine-Learning-For-Predictive-Lead-Scoring) [![GitHub_Stars](https://img.shields.io/github/stars/daddydrac/Machine-Learning-For-Predictive-Lead-Scoring?style=social&color=white)](https://github.com/daddydrac/Machine-Learning-For-Predictive-Lead-Scoring/stargazers)
    - **Focus:** Supervised Predictive Lead Prioritization
    - **Tech Stack:** Python, Jupyter, Scikit-learn, Pandas
    - **Highlights:** End-to-end predictive lead scoring engine that extracts behavioral and firmographic signals from CRM records, calculates conversion probabilities, and surfaces high-intent opportunities for sales reps.
 
-9. ### 🌟 [Horilla CRM](https://github.com/horilla/horilla-crm) [![GitHub stars](https://img.shields.io/github/stars/horilla/horilla-crm?style=social&color=white)](https://github.com/horilla/horilla-crm/stargazers)
+9. ### 🌟 [Horilla CRM](https://github.com/horilla/horilla-crm) [![GitHub_Stars](https://img.shields.io/github/stars/horilla/horilla-crm?style=social&color=white)](https://github.com/horilla/horilla-crm/stargazers)
    - **Focus:** Self-Hosted CRM & Enterprise Workflow Suite
    - **Tech Stack:** Python, Django, PostgreSQL, Docker
    - **Highlights:** Free and open-source CRM and HR platform released under LGPL-2.1+. Features role-based access control, REST APIs with Swagger documentation, webhook triggers for scoring events, and enterprise data security.
 
-10. ### 🌟 [Lead Scoring Model Python](https://github.com/mukulsinghal001/lead-scoring-model-python) [![GitHub stars](https://img.shields.io/github/stars/mukulsinghal001/lead-scoring-model-python?style=social&color=white)](https://github.com/mukulsinghal001/lead-scoring-model-python/stargazers)
+10. ### 🌟 [Lead Scoring Model Python](https://github.com/mukulsinghal001/lead-scoring-model-python) [![GitHub_Stars](https://img.shields.io/github/stars/mukulsinghal001/lead-scoring-model-python?style=social&color=white)](https://github.com/mukulsinghal001/lead-scoring-model-python/stargazers)
     - **Focus:** Supervised Machine Learning for Lead Conversion
     - **Tech Stack:** Python, Logistic Regression, Random Forest, Statsmodels
     - **Highlights:** Real-world case study and production pipeline utilizing supervised classification to generate lead scores (0–100 scale), complete with precision-recall trade-off tuning and ROC-AUC curve analysis.
 
-11. ### 🌟 [LeadGenius](https://github.com/Astoriel/LeadGenius) [![GitHub stars](https://img.shields.io/github/stars/Astoriel/LeadGenius?style=social&color=white)](https://github.com/Astoriel/LeadGenius/stargazers)
+11. ### 🌟 [LeadGenius](https://github.com/Astoriel/LeadGenius) [![GitHub_Stars](https://img.shields.io/github/stars/Astoriel/LeadGenius?style=social&color=white)](https://github.com/Astoriel/LeadGenius/stargazers)
     - **Focus:** Open-Source B2B Lead Scoring & Routing Engine
     - **Tech Stack:** Go, Docker, YAML, Slack/HubSpot Integrations
     - **Highlights:** Self-hosted open-source alternative to Clearbit and MadKudu. Provides waterfall enrichment, YAML-based transparent scoring formulas, and automated routing of qualified leads directly to CRM pipelines and Slack notifications.
 
-12. ### 🌟 [ChurnGuard AI](https://github.com/ShreyasDasari/churnguard-ai) [![GitHub stars](https://img.shields.io/github/stars/ShreyasDasari/churnguard-ai?style=social&color=white)](https://github.com/ShreyasDasari/churnguard-ai/stargazers)
+12. ### 🌟 [ChurnGuard AI](https://github.com/ShreyasDasari/churnguard-ai) [![GitHub_Stars](https://img.shields.io/github/stars/ShreyasDasari/churnguard-ai?style=social&color=white)](https://github.com/ShreyasDasari/churnguard-ai/stargazers)
     - **Focus:** Automated SaaS Customer Churn Prediction
     - **Tech Stack:** Python, XGBoost, LightGBM, SMOTEENN
     - **Highlights:** Plugs into SaaS customer data via standard CSV schemas or HubSpot/Stripe webhooks. Leverages XGBoost and LightGBM models with SMOTEENN resampling to classify accounts into Critical/High/Medium/Low risk tiers with revenue retention calculations.
 
-13. ### 🌟 [AI-Driven CRM Analytics System](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System) [![GitHub stars](https://img.shields.io/github/stars/Isha2605/AI-Driven-CRM-Analytics-System?style=social&color=white)](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System/stargazers)
+13. ### 🌟 [AI-Driven CRM Analytics System](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System) [![GitHub_Stars](https://img.shields.io/github/stars/Isha2605/AI-Driven-CRM-Analytics-System?style=social&color=white)](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System/stargazers)
     - **Focus:** Full-Stack AI CRM with Lead Classification & Chatbot
     - **Tech Stack:** Python, Flask, PyTorch, Scikit-learn, MySQL
     - **Highlights:** Full-stack CRM combining employee performance predictions, conversational PyTorch assistants, and lead scoring models achieving 82% classification accuracy using KNN and Feedforward Neural Networks across customer datasets.
 
-14. ### 🌟 [CallSense (ML Voice Lead Analysis)](https://github.com/aaron-seq/ML-voice-lead-analysis) [![GitHub stars](https://img.shields.io/github/stars/aaron-seq/ML-voice-lead-analysis?style=social&color=white)](https://github.com/aaron-seq/ML-voice-lead-analysis/stargazers)
+14. ### 🌟 [CallSense (ML Voice Lead Analysis)](https://github.com/aaron-seq/ML-voice-lead-analysis) [![GitHub_Stars](https://img.shields.io/github/stars/aaron-seq/ML-voice-lead-analysis?style=social&color=white)](https://github.com/aaron-seq/ML-voice-lead-analysis/stargazers)
     - **Focus:** Self-Hosted Sales Conversation Intelligence
     - **Tech Stack:** Python 3.11, NLP, Whisper, BANT/MEDDIC
     - **Highlights:** Self-hosted speech-to-intent analysis for sales call recordings. Parses conversation transcripts to score buyer intent (0–100 scale), detects 7 objection categories, flags missing decision-makers, and outputs next-best-actions without data leaving your VPC.
 
-15. ### 🌟 [SalesIQ](https://github.com/badrr06/SalesIq) [![GitHub stars](https://img.shields.io/github/stars/badrr06/SalesIq?style=social&color=white)](https://github.com/badrr06/SalesIq/stargazers)
+15. ### 🌟 [SalesIQ](https://github.com/badrr06/SalesIq) [![GitHub_Stars](https://img.shields.io/github/stars/badrr06/SalesIq?style=social&color=white)](https://github.com/badrr06/SalesIq/stargazers)
     - **Focus:** Modular Sales Management & Time-Series Forecasting
     - **Tech Stack:** Python, Flask, SQLAlchemy, Chart.js, ARIMA
     - **Highlights:** Clean and lightweight CRM interface for small businesses providing product catalogs, order management, KPI analytics, and monthly 6-month sales forecasting using ARIMA and linear models.
@@ -192,7 +192,7 @@ Contributions are warmly encouraged! Help keep this repository the most comprehe
 1. **Fork the repository** to your own GitHub account.
 2. **Add or update an entry** in `README.md` following the existing format.
    - For SaaS tools: include verified starting tier pricing, free trial specifications, and company size/valuation.
-   - For open-source tools: include the repository link, star badge, technology stack, and architectural capabilities.
+   - For open-source tools: include the repository link, Stars_Badge, technology stack, and architectural capabilities.
 3. **Ensure factual accuracy** and link to official websites or public GitHub repositories.
 4. **Submit a Pull Request** with a descriptive title and explanation.
 
